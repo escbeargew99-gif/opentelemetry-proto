@@ -1,4 +1,4 @@
-GOPATH_DIR := $(GOPATH)/src/github.com/open-telemetry/opentelemetry-proto
+GOPATH_DIR :=  $(GOPATH)/src/github.com/open-telemetry/opentelemetry-proto
 GENDIR := gen
 GOPATH_GENDIR := $(GOPATH_DIR)/$(GENDIR)
 
