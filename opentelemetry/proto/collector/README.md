@@ -1,5 +1,5 @@
 # OpenTelemetry Collector Proto
-
+ 
 This package describes the OpenTelemetry collector protocol.
 
 ## Packages
