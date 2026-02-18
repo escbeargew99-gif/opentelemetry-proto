@@ -1,4 +1,4 @@
-# OpenTelemetry Protocol (OTLP)
+# OpenTelemetry Protocol (OTLP)ื
 
 This is the specification of the OpenTelemetry Protocol (OTLP).
 
