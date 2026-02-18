@@ -1,4 +1,4 @@
-# OTLP JSON request examples
+# OTLP JSON request examples 
 
 This folder contains a collection of example OTLP JSON files for all signals
 that can be used as request payloads.
