@@ -1,5 +1,5 @@
 # Contributing
-
+ 
 ## Introduction
 
 Welcome, and thank you for your interest in contributing to the OpenTelemetry Protocol (OTLP) Specification! Your contributions — big or small — are invaluable in shaping and improving this essential part of the OpenTelemetry ecosystem.
