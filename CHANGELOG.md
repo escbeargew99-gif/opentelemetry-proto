@@ -1,4 +1,4 @@
-# Changelog
+# Changelog 
 
 The full list of changes can be found in the compare view for the respective release at <https://github.com/open-telemetry/opentelemetry-proto/releases>.
 
