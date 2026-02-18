@@ -1,5 +1,5 @@
 # OpenTelemetry Protocol (OTLP) Specification
-
+ 
 [![Build Check](https://github.com/open-telemetry/opentelemetry-proto/workflows/Build%20Check/badge.svg?branch=main)](https://github.com/open-telemetry/opentelemetry-proto/actions?query=workflow%3A%22Build+Check%22+branch%3Amain)
 
 This repository contains the [OTLP protocol specification](docs/specification.md)
